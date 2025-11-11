@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VloFdqo9FZs=",
+  "success": true,
+  "projectFilePath": "/home/plantfire124/RiderProjects/FCC Course - College Algebra/FCC Course - College Algebra.csproj",
+  "expectedPackageFiles": [
+    "/home/plantfire124/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

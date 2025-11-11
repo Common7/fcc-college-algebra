@@ -1,0 +1,14 @@
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/bin/Debug/net9.0/FCC Course - College Algebra
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/bin/Debug/net9.0/FCC Course - College Algebra.deps.json
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/bin/Debug/net9.0/FCC Course - College Algebra.runtimeconfig.json
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/bin/Debug/net9.0/FCC Course - College Algebra.dll
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/bin/Debug/net9.0/FCC Course - College Algebra.pdb
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/FCC Course - College Algebra.GeneratedMSBuildEditorConfig.editorconfig
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/FCC Course - College Algebra.AssemblyInfoInputs.cache
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/FCC Course - College Algebra.AssemblyInfo.cs
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/FCC Course - College Algebra.csproj.CoreCompileInputs.cache
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/FCC Course - College Algebra.dll
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/refint/FCC Course - College Algebra.dll
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/FCC Course - College Algebra.pdb
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/FCC Course - College Algebra.genruntimeconfig.cache
+/home/plantfire124/RiderProjects/FCC Course - College Algebra/obj/Debug/net9.0/ref/FCC Course - College Algebra.dll

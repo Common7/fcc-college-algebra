@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FCC Course - College Algebra/1.0.0": {
+        "runtime": {
+          "FCC Course - College Algebra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FCC Course - College Algebra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
